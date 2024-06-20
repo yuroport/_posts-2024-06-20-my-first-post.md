@@ -1,1 +1,8 @@
-# _posts-2024-06-20-my-first-post.md
+---
+title: "My First Blog Post"
+date: 2024-06-20
+---
+
+# My First Blog Post
+
+This is the content of my first blog post.
